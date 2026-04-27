@@ -3,41 +3,44 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>AICPR — AI Contract & Policy Review Agent</title>
-  <link rel="stylesheet" href="style.css" />
+  <title>AICPR Support</title>
+  <link rel="stylesheet" href="../style.css" />
 </head>
 <body>
   <header>
-    <img src="logo.png" alt="AICPR Logo" class="logo" />
-    <h1>AI Contract & Policy Review Agent</h1>
-    <p>Automated contract analysis powered by AWS Bedrock</p>
-    <a class="cta" href="https://aws.amazon.com/marketplace">Subscribe on AWS Marketplace</a>
+    <h1>AICPR Support</h1>
+    <p>We're here to help you succeed</p>
+    <a class="cta" href="/">← Back to Home</a>
   </header>
 
   <section>
-    <h2>What AICPR Does</h2>
-    <p>
-      AICPR automatically analyzes contracts, policies, and compliance documents.
-      It extracts key clauses, identifies risks, and generates structured summaries using advanced AI models.
-    </p>
+    <h2>Contact Support</h2>
+    <p>Email: <strong>support@aicpr.tech</strong></p>
 
-    <h2>Key Features</h2>
+    <h2>Response Times</h2>
     <ul>
-      <li>Automated clause extraction</li>
-      <li>Risk identification and compliance insights</li>
-      <li>Structured JSON output for API integration</li>
-      <li>Serverless, scalable, and secure on AWS</li>
+      <li><strong>Standard:</strong> 24–48 hours</li>
+      <li><strong>Priority (AWS Marketplace customers):</strong> 12–24 hours</li>
     </ul>
 
-    <h2>Pricing</h2>
-    <p>Usage-based billing through AWS Marketplace (per document analyzed).</p>
+    <h2>What We Help With</h2>
+    <ul>
+      <li>API integration issues</li>
+      <li>Billing questions</li>
+      <li>Technical troubleshooting</li>
+      <li>Feature requests</li>
+    </ul>
 
-    <h2>Support</h2>
-    <p>Email: support@aicpr.tech</p>
+    <h2>FAQ</h2>
+    <p><strong>Q:</strong> Do I need an AWS account?<br>
+       <strong>A:</strong> Yes, billing is handled through AWS Marketplace.</p>
+
+    <p><strong>Q:</strong> Is my data secure?<br>
+       <strong>A:</strong> All processing occurs inside your AWS region using encrypted storage.</p>
   </section>
 
   <footer>
-    © 2026 AICPR — Powered by AWS
+    © 2026 AICPR — Support
   </footer>
 </body>
 </html>
